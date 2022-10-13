@@ -1,0 +1,11 @@
+{
+    "model_type": "canny",
+    "threshold_1": 85,
+    "threshold_2": 255,
+    "gausian_filter": [
+        3,
+        3
+    ],
+    "aperture_size": 3,
+    "l2_gradient": 1
+}
